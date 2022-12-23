@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 hello aiguigu!hello git!2222
 hello aiguigu!hello git!master
->>>>>>> hot-fix
 hello aiguigu!hello git!
 hello aiguigu!hello git!
 hello aiguigu!hello git!
